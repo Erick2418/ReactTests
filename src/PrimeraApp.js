@@ -7,7 +7,7 @@ const PrimeraApp= () => {
         nombre: 'Erick',
         edad: 22
     };*/
-    const saludo='Hola';
+    const saludo='Hola Mundo';
     return ( 
         <>
             <h1>{saludo}</h1>
