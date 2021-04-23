@@ -1,4 +1,6 @@
 # HOLA!
+### ATAJOS POR TAB
+rafcp +TAB  == CREA UN FUNCIONAL COMPONENT AUTOMATICAMTNE GRACIAS AL SNIPED 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
