@@ -2,7 +2,7 @@ import '@testing-library/jest-dom';
 import {getSaludo} from './../../base/02-Templade';
 
 describe('Pruebas en 02-templade.js',()=>{
-
+    
     test('Get saludo debe retornar hola Erick', () => {
         const nombre= 'Erick';
         const saludo = getSaludo(nombre);
@@ -13,6 +13,6 @@ describe('Pruebas en 02-templade.js',()=>{
         //const nombre= '';
         const saludo = getSaludo();
         expect(saludo).toBe('Hola Joel');
-
+    
     })
 });
